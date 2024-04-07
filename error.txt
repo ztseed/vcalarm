@@ -1,0 +1,890 @@
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Subject”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Subject”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Subject”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+2023/11/10 11:37:07	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 11:37:07	Get-Folder		Could not find VIServer with name '10.160.159.4,10.161.252.2'.	
+2023/11/10 11:37:05	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+无法对参数“Subject”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+2023/11/10 11:38:11	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:37:07	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 11:37:07	Get-Folder		Could not find VIServer with name '10.160.159.4,10.161.252.2'.	
+2023/11/10 11:37:05	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+无法对参数“Subject”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+2023/11/10 11:48:19	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:38:11	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:37:07	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 11:37:07	Get-Folder		Could not find VIServer with name '10.160.159.4,10.161.252.2'.	
+2023/11/10 11:37:05	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+无法对参数“Subject”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+2023/11/10 11:50:35	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:48:19	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:38:11	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:37:07	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 11:37:07	Get-Folder		Could not find VIServer with name '10.160.159.4,10.161.252.2'.	
+2023/11/10 11:37:05	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+无法对参数“Subject”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+2023/11/10 11:54:36	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:50:35	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:48:19	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:38:11	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 11:37:07	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 11:37:07	Get-Folder		Could not find VIServer with name '10.160.159.4,10.161.252.2'.	
+2023/11/10 11:37:05	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+无法对参数“Subject”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+2023/11/10 10:56:49	Get-Folder		Not authenticated. Possible cause of this error is that connection was left unused for a while and session has timed out. In such case use Connect-VIServer to reconnect.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/10 10:08:39	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/10 10:08:39	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+2023/11/10 12:37:24	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/10 13:41:26	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2023/11/29 11:42:16	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/29 11:42:16	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2023/11/29 11:42:16	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/29 11:42:16	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/29 11:42:16	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/29 11:42:16	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2023/11/29 11:41:23	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/29 11:41:23	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2023/11/29 11:41:23	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/29 11:41:23	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2023/11/29 11:41:23	Get-Folder		Could not find any of the servers specified by name.	
+2023/11/29 11:41:22	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+无法对参数“Body”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+不能对 Null 值表达式调用方法。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+2024/1/11 10:06:43	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 10:01:13	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:59:32	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:43:04	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2024/1/11 9:42:42	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+2024/1/11 10:27:46	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:27:46	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+不能对 Null 值表达式调用方法。
+2024/1/11 10:27:46	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:27:46	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+无法对参数“Body”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+不能对 Null 值表达式调用方法。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+2024/1/11 10:06:43	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 10:01:13	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:59:32	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:43:04	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2024/1/11 9:42:42	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+2024/1/11 10:28:34	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2024/1/11 10:28:34	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 10:28:34	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find VIServer with name '10.161.252.2'.	
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 10:27:46	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:27:46	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+不能对 Null 值表达式调用方法。
+2024/1/11 10:27:46	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:27:46	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+无法对参数“Body”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+不能对 Null 值表达式调用方法。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+2024/1/11 10:06:43	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 10:01:13	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:59:32	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:43:04	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2024/1/11 9:42:42	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+不能对 Null 值表达式调用方法。
+2024/1/11 10:29:45	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find VIServer with name '10.161.252.2'.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 10:28:34	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2024/1/11 10:28:34	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 10:28:34	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find VIServer with name '10.161.252.2'.	
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 10:27:46	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:27:46	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+不能对 Null 值表达式调用方法。
+2024/1/11 10:27:46	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:27:46	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+无法对参数“Body”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+不能对 Null 值表达式调用方法。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+2024/1/11 10:06:43	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 10:01:13	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:59:32	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:43:04	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2024/1/11 9:42:42	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+2024/1/11 10:32:54	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+不能对 Null 值表达式调用方法。
+2024/1/11 10:29:45	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find VIServer with name '10.161.252.2'.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Disconnect-VIServer		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 10:28:34	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2024/1/11 10:28:34	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 10:28:34	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:28:34	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find VIServer with name '10.161.252.2'.	
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/1/11 10:27:47	Disconnect-VIServer		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 10:27:46	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:27:46	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+不能对 Null 值表达式调用方法。
+2024/1/11 10:27:46	Get-Folder		Could not find any of the servers specified by name.	
+2024/1/11 10:27:46	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+无法对参数“Body”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”，因为该路径不存在。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+未能找到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\checklog\vcenter-alarm.html”的一部分。
+不能对 Null 值表达式调用方法。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+2024/1/11 10:06:43	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 10:01:13	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:59:32	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:59:32	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:59:32	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数为空字符串。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.4'.	
+2024/1/11 9:43:04	Get-VMHost		Could not find any of the servers specified by name.	
+2024/1/11 9:43:04	Get-VMHost		Could not find VIServer with name '10.160.159.2'.	
+2024/1/11 9:43:04	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+找不到“PSCredential”的重载，参数计数为:“2”。
+输入字符串的格式不正确。
+无法将参数绑定到参数“Path”，因为该参数是空值。
+无法将“ll”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+2024/1/11 9:42:42	Get-VMHost		You are not currently connected to any servers. Please connect first using a Connect cmdlet.	
+2024/2/1 12:08:00	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2024/2/1 12:08:00	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2024/2/1 12:07:59	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 12:07:59	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AGUATgAwAHUAaQBSAGYAQQBuAGkASgBOADgATgBsAGsAawAwADYAaQBLAHcAPQA9AHwAOQAzADMAOABkAGMAOAA5AGUANwA2ADMAYwA3ADcAMwA2AGIAYwBmAGUAYwBmADQANwAyAGIAOAA0ADIAZgA2ADYAOQAzADkAMQAwAGUAMgAwADkANABjAGUANAA0ADMANgA5ADcAZAAzAGQAMwBiADIAOAA1AGEANQBiADYAZAA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AFAALwBJAGEANABxAHMAMwAxAEkAUwB5AFMAdwBMAGkAMABmAHoARABXAHcAPQA9AHwAZQBmADIAYwBlADAAMwBkADIAZAAzAGMAZABlADIAYQA1ADQAMgA3ADAAZAA5ADkANgBlADEAYgAwADUANwA0ADkANQBiADIAOAAxADEAMAA4AGMAYwA0ADIANABhAGUAOABmAGUAYwA0ADcAYgBlADYAMgA4AGYAMgA2ADUAZgA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AG4AbgBWAFcAbABUAFQAdABoAE4AcgBXAEQAbwB1AGQAVwBIAEgALwB0AGcAPQA9AHwAOQA1ADAAMwBjAGMAZQA5ADMAMwBmADQAYwAzAGUAZgA0AGIAMgA0ADYANwBmADkAYQAwAGIAZgA5ADQAMgBkADkANABhADIAYwAyADMANQA5AGMAYgA4ADkAYQAyAGMANwBhAGYAMAA5ADgANQA0AGQAZAA0ADEANQA1ADUAMgA=”，因为该路径不存在。
+根据验证过程，远程证书无效。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+2024/2/1 13:11:55	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 13:11:55	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2024/2/1 13:11:55	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 13:11:55	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2024/2/1 13:11:55	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 13:11:55	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AGUATgAwAHUAaQBSAGYAQQBuAGkASgBOADgATgBsAGsAawAwADYAaQBLAHcAPQA9AHwAOQAzADMAOABkAGMAOAA5AGUANwA2ADMAYwA3ADcAMwA2AGIAYwBmAGUAYwBmADQANwAyAGIAOAA0ADIAZgA2ADYAOQAzADkAMQAwAGUAMgAwADkANABjAGUANAA0ADMANgA5ADcAZAAzAGQAMwBiADIAOAA1AGEANQBiADYAZAA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AFAALwBJAGEANABxAHMAMwAxAEkAUwB5AFMAdwBMAGkAMABmAHoARABXAHcAPQA9AHwAZQBmADIAYwBlADAAMwBkADIAZAAzAGMAZABlADIAYQA1ADQAMgA3ADAAZAA5ADkANgBlADEAYgAwADUANwA0ADkANQBiADIAOAAxADEAMAA4AGMAYwA0ADIANABhAGUAOABmAGUAYwA0ADcAYgBlADYAMgA4AGYAMgA2ADUAZgA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AG4AbgBWAFcAbABUAFQAdABoAE4AcgBXAEQAbwB1AGQAVwBIAEgALwB0AGcAPQA9AHwAOQA1ADAAMwBjAGMAZQA5ADMAMwBmADQAYwAzAGUAZgA0AGIAMgA0ADYANwBmADkAYQAwAGIAZgA5ADQAMgBkADkANABhADIAYwAyADMANQA5AGMAYgA4ADkAYQAyAGMANwBhAGYAMAA5ADgANQA0AGQAZAA0ADEANQA1ADUAMgA=”，因为该路径不存在。
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find VIServer with name '10.161.252.2'.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find VIServer with name '10.160.159.4'.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find VIServer with name '10.160.159.2'.	
+2024/2/1 12:08:00	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2024/2/1 12:08:00	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2024/2/1 12:07:59	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 12:07:59	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AGUATgAwAHUAaQBSAGYAQQBuAGkASgBOADgATgBsAGsAawAwADYAaQBLAHcAPQA9AHwAOQAzADMAOABkAGMAOAA5AGUANwA2ADMAYwA3ADcAMwA2AGIAYwBmAGUAYwBmADQANwAyAGIAOAA0ADIAZgA2ADYAOQAzADkAMQAwAGUAMgAwADkANABjAGUANAA0ADMANgA5ADcAZAAzAGQAMwBiADIAOAA1AGEANQBiADYAZAA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AFAALwBJAGEANABxAHMAMwAxAEkAUwB5AFMAdwBMAGkAMABmAHoARABXAHcAPQA9AHwAZQBmADIAYwBlADAAMwBkADIAZAAzAGMAZABlADIAYQA1ADQAMgA3ADAAZAA5ADkANgBlADEAYgAwADUANwA0ADkANQBiADIAOAAxADEAMAA4AGMAYwA0ADIANABhAGUAOABmAGUAYwA0ADcAYgBlADYAMgA4AGYAMgA2ADUAZgA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AG4AbgBWAFcAbABUAFQAdABoAE4AcgBXAEQAbwB1AGQAVwBIAEgALwB0AGcAPQA9AHwAOQA1ADAAMwBjAGMAZQA5ADMAMwBmADQAYwAzAGUAZgA0AGIAMgA0ADYANwBmADkAYQAwAGIAZgA5ADQAMgBkADkANABhADIAYwAyADMANQA5AGMAYgA4ADkAYQAyAGMANwBhAGYAMAA5ADgANQA0AGQAZAA0ADEANQA1ADUAMgA=”，因为该路径不存在。
+根据验证过程，远程证书无效。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+2024/2/1 13:12:30	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 13:12:30	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2024/2/1 13:12:30	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 13:12:30	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2024/2/1 13:12:30	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 13:12:30	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AGUATgAwAHUAaQBSAGYAQQBuAGkASgBOADgATgBsAGsAawAwADYAaQBLAHcAPQA9AHwAOQAzADMAOABkAGMAOAA5AGUANwA2ADMAYwA3ADcAMwA2AGIAYwBmAGUAYwBmADQANwAyAGIAOAA0ADIAZgA2ADYAOQAzADkAMQAwAGUAMgAwADkANABjAGUANAA0ADMANgA5ADcAZAAzAGQAMwBiADIAOAA1AGEANQBiADYAZAA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AFAALwBJAGEANABxAHMAMwAxAEkAUwB5AFMAdwBMAGkAMABmAHoARABXAHcAPQA9AHwAZQBmADIAYwBlADAAMwBkADIAZAAzAGMAZABlADIAYQA1ADQAMgA3ADAAZAA5ADkANgBlADEAYgAwADUANwA0ADkANQBiADIAOAAxADEAMAA4AGMAYwA0ADIANABhAGUAOABmAGUAYwA0ADcAYgBlADYAMgA4AGYAMgA2ADUAZgA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AG4AbgBWAFcAbABUAFQAdABoAE4AcgBXAEQAbwB1AGQAVwBIAEgALwB0AGcAPQA9AHwAOQA1ADAAMwBjAGMAZQA5ADMAMwBmADQAYwAzAGUAZgA0AGIAMgA0ADYANwBmADkAYQAwAGIAZgA5ADQAMgBkADkANABhADIAYwAyADMANQA5AGMAYgA4ADkAYQAyAGMANwBhAGYAMAA5ADgANQA0AGQAZAA0ADEANQA1ADUAMgA=”，因为该路径不存在。
+2024/2/1 13:11:56	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/2/1 13:11:56	Disconnect-VIServer		Could not find VIServer with name '10.161.252.2'.	
+2024/2/1 13:11:56	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/2/1 13:11:56	Disconnect-VIServer		Could not find VIServer with name '10.160.159.4'.	
+2024/2/1 13:11:56	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/2/1 13:11:56	Disconnect-VIServer		Could not find VIServer with name '10.160.159.2'.	
+2024/2/1 13:11:55	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 13:11:55	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2024/2/1 13:11:55	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 13:11:55	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2024/2/1 13:11:55	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 13:11:55	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AGUATgAwAHUAaQBSAGYAQQBuAGkASgBOADgATgBsAGsAawAwADYAaQBLAHcAPQA9AHwAOQAzADMAOABkAGMAOAA5AGUANwA2ADMAYwA3ADcAMwA2AGIAYwBmAGUAYwBmADQANwAyAGIAOAA0ADIAZgA2ADYAOQAzADkAMQAwAGUAMgAwADkANABjAGUANAA0ADMANgA5ADcAZAAzAGQAMwBiADIAOAA1AGEANQBiADYAZAA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AFAALwBJAGEANABxAHMAMwAxAEkAUwB5AFMAdwBMAGkAMABmAHoARABXAHcAPQA9AHwAZQBmADIAYwBlADAAMwBkADIAZAAzAGMAZABlADIAYQA1ADQAMgA3ADAAZAA5ADkANgBlADEAYgAwADUANwA0ADkANQBiADIAOAAxADEAMAA4AGMAYwA0ADIANABhAGUAOABmAGUAYwA0ADcAYgBlADYAMgA4AGYAMgA2ADUAZgA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AG4AbgBWAFcAbABUAFQAdABoAE4AcgBXAEQAbwB1AGQAVwBIAEgALwB0AGcAPQA9AHwAOQA1ADAAMwBjAGMAZQA5ADMAMwBmADQAYwAzAGUAZgA0AGIAMgA0ADYANwBmADkAYQAwAGIAZgA5ADQAMgBkADkANABhADIAYwAyADMANQA5AGMAYgA4ADkAYQAyAGMANwBhAGYAMAA5ADgANQA0AGQAZAA0ADEANQA1ADUAMgA=”，因为该路径不存在。
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find VIServer with name '10.161.252.2'.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find VIServer with name '10.160.159.4'.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Disconnect-VIServer		Could not find VIServer with name '10.160.159.2'.	
+2024/2/1 12:08:00	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Get-Folder		Could not find VIServer with name '10.161.252.2'.	
+2024/2/1 12:08:00	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 12:08:00	Get-Folder		Could not find VIServer with name '10.160.159.4'.	
+2024/2/1 12:07:59	Get-Folder		Could not find any of the servers specified by name.	
+2024/2/1 12:07:59	Get-Folder		Could not find VIServer with name '10.160.159.2'.	
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AGUATgAwAHUAaQBSAGYAQQBuAGkASgBOADgATgBsAGsAawAwADYAaQBLAHcAPQA9AHwAOQAzADMAOABkAGMAOAA5AGUANwA2ADMAYwA3ADcAMwA2AGIAYwBmAGUAYwBmADQANwAyAGIAOAA0ADIAZgA2ADYAOQAzADkAMQAwAGUAMgAwADkANABjAGUANAA0ADMANgA5ADcAZAAzAGQAMwBiADIAOAA1AGEANQBiADYAZAA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AFAALwBJAGEANABxAHMAMwAxAEkAUwB5AFMAdwBMAGkAMABmAHoARABXAHcAPQA9AHwAZQBmADIAYwBlADAAMwBkADIAZAAzAGMAZABlADIAYQA1ADQAMgA3ADAAZAA5ADkANgBlADEAYgAwADUANwA0ADkANQBiADIAOAAxADEAMAA4AGMAYwA0ADIANABhAGUAOABmAGUAYwA0ADcAYgBlADYAMgA4AGYAMgA2ADUAZgA=”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“userName”的值无效。请更改“userName”参数的值，然后再次运行此操作。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\vcalarm\76492d1116743f0423413b16050a5345MgB8AG4AbgBWAFcAbABUAFQAdABoAE4AcgBXAEQAbwB1AGQAVwBIAEgALwB0AGcAPQA9AHwAOQA1ADAAMwBjAGMAZQA5ADMAMwBmADQAYwAzAGUAZgA0AGIAMgA0ADYANwBmADkAYQAwAGIAZgA5ADQAMgBkADkANABhADIAYwAyADMANQA5AGMAYgA4ADkAYQAyAGMANwBhAGYAMAA5ADgANQA0AGQAZAA0ADEANQA1ADUAMgA=”，因为该路径不存在。
+根据验证过程，远程证书无效。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+无法对参数“Credential”执行参数验证。参数为 Null 或空。请提供一个不为 Null 或空的参数，然后重试该命令。
+使用“2”个参数调用“.ctor”时发生异常:“无法处理参数，因为参数“password”的值为空。请将参数“password”的值更改为非空值。”
+无法将参数绑定到参数“String”，因为该参数是空值。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\sec_mailinfo.txt”，因为该路径不存在。
+找不到路径“D:\项目\BaiduSyncdisk\deploy\vmware\create_new_vm\aes.key”，因为该路径不存在。
+2024/2/1 16:43:28	Connect-VIServer		The server '10.161.252.2' is not part of a linked mode configuration.	
+未能加载指定的模块“./Sendmail.ps1”，因为在任何模块目录中都没有找到有效模块文件。
+使用“4”个参数调用“CompleteInput”时发生异常:“值不能为 null。
+参数名: expressions”
